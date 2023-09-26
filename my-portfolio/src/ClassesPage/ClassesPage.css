@@ -1,0 +1,42 @@
+.courses-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.courses-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+}
+
+.course-box {
+    background-color: #f7f7f7;
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    margin: 10px 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.course-content {
+    display: flex;
+    align-items: center;
+}
+
+.course-code {
+    margin-right: 3px; /* Adjusted the spacing here */
+}
+
+.course-name {
+    margin-left: 3px; /* Adjusted the spacing here */
+}
+
+
+
+
+
